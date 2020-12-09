@@ -208,7 +208,8 @@
     "version": 134
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "--/ Sub Main 1"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
