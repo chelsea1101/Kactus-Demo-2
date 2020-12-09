@@ -1,0 +1,219 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "BD7DDC5A-C654-4EE0-8D52-69D639428070",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "ca0327b0-39cf-11eb-a992-551b6dd2cc1a",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0DBED53C-F668-4248-A4AB-6419D28A70EA",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "AvertaStdCY-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1DBE7D6F-39EF-4B78-84D7-FD3A06F2C8D2",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCy-ExtrathinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-ExtrathinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1EBF1E03-CD6C-41C6-AC66-5B9ABEB4E509",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-ExtraboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-ExtraboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "22117B9D-A44B-4D34-80F7-258D10E5EF01",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Extrabold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Extrabold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "27FF2908-720F-4041-8516-ADBBC0872543",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4409010D-11F8-437C-B159-D1F745DA16E7",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-SemiboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "49813F91-E6CE-4D89-83FD-B8FDDFDB1BC6",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5EE3B96F-88CA-426D-A388-A8F997FF02FC",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "60E577B9-B520-402D-944A-6F8E8B247FB3",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "685BB550-AF63-4229-A319-EADF5A9E05DA",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A4A3B97A-83EB-48C9-BE6F-9E4EBF43A15F",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BAC2A128-57DB-4518-9575-B8B7D2B2134C",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D0473CD5-7F32-49A6-93DC-B89B63F11C3F",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E334F67F-7540-465F-A749-EEF415673DD9",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EFBF63AB-1B95-4760-B665-3CFD4D62F2F4",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCy-Extrathin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-Extrathin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F66B53A1-5458-4733-80B2-0EAF5363E0AE",
+      "fontFamilyName": "Averta Std CY",
+      "fontFileName": "Intelligent Design - AvertaStdCY-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AvertaStdCY-BlackItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "E8223112-485D-4339-A60B-16F5E5CAAED5",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "69.2",
+    "build": 107504,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "9FE989CF-55C9-4134-8A2E-BFE8896DA65E",
+    "objects": [
+    ]
+  }
+}
