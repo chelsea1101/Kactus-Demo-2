@@ -1,87 +1,68 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ca0300a0-39cf-11eb-a992-551b6dd2cc1a",
+  "do_objectID": "79BD29A9-E44E-4588-8021-9C511390B173",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 974,
+    "width": 1017,
+    "x": 2444,
+    "y": 2617
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "468245DF-4378-4287-A03F-D1AB12E57E43"
-    },
-    {
-      "class": "artboard",
-      "id": "64AC64FD-5D1F-47B4-A392-AD3066A061EC"
-    },
-    {
-      "class": "artboard",
-      "id": "9FA08B53-256E-4DCB-BC14-17629C63F026"
-    },
-    {
-      "class": "artboard",
-      "id": "50CAD57C-617B-45A6-B266-AFE496744BD4"
-    },
-    {
-      "class": "artboard",
-      "id": "50675ED0-4093-4AD4-87C1-59C7ED64FEA9"
-    },
-    {
-      "class": "artboard",
-      "id": "7AE6D2D4-9617-45FF-9636-0A63537EFCE5"
-    },
-    {
-      "class": "artboard",
-      "id": "79BD29A9-E44E-4588-8021-9C511390B173"
-    },
-    {
-      "class": "text",
-      "id": "045511C7-749E-4349-8D16-33CF4713A836"
-    },
-    {
-      "class": "group",
-      "id": "BE2734B1-2729-459C-8CCC-BAFDFF421EA4"
+      "class": "rectangle",
+      "id": "0C0B9BB9-0A97-405E-8EA6-1DA9C6785D9D"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Artboard 1 Copy 6",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -116,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D26DAD4D-C44D-4660-BFFB-860CD81C328A",
+    "do_objectID": "7991E6F9-38ED-4BBE-B9CC-795A6E13F039",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,9 +109,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "79BD29A9-E44E-4588-8021-9C511390B173"
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
