@@ -1,75 +1,68 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B6A96CE7-47FE-4597-8FB8-A05F4D5EA60F",
+  "do_objectID": "D5F5A365-FF0B-4006-BECE-070634A2B86A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 974,
+    "width": 1017,
+    "x": -1646,
+    "y": 130
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -723,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "64FBE28B-02EE-47A8-99BF-778D9E84CBCC"
-    },
-    {
-      "class": "artboard",
-      "id": "D5F5A365-FF0B-4006-BECE-070634A2B86A"
-    },
-    {
-      "class": "artboard",
-      "id": "CE3C584F-D8D8-4513-8F0F-C29549DA1657"
-    },
-    {
-      "class": "artboard",
-      "id": "99998E52-AC42-417B-A5FB-A0418C619795"
-    },
-    {
-      "class": "artboard",
-      "id": "8553B44D-370E-4E8E-B8DD-D5C57F0872E8"
-    },
-    {
-      "class": "artboard",
-      "id": "C10873F7-A73E-46C4-8C4D-83A32868B6EE"
+      "class": "rectangle",
+      "id": "4DD69D74-3CF0-4815-AD5B-73A4AD9F81D9"
     }
   ],
-  "name": "--/ Sub Main 1",
+  "name": "Artboard 1 Copy 6",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -104,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1899E2A1-C4FB-4315-8703-CEE4471AEB60",
+    "do_objectID": "CF3F197C-111C-4398-9374-A619AA70BBAD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,9 +109,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "50CAD57C-617B-45A6-B266-AFE496744BD4"
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -500,
+    "base": 0,
     "guides": [
     ]
   }
